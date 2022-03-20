@@ -13,6 +13,7 @@
     </style>
     <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
         <item name="android:background">#FFFFFF</item>
+        <item name="colorAccent">#EB4D36</item>
     </style>
     <style name="android_native_small" parent="android_native">
         <item name="android:layout_width">40dp</item>
